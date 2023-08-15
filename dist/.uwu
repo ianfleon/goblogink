@@ -1,0 +1,5 @@
+APP_NAME = CMSKUY
+BASE_URL = http://localhost:8080
+THEME = basic
+
+PERMALINK = :category/:slug
